@@ -13,13 +13,16 @@ I'm passionate about bridging the gap between cutting-edge AI research and pract
 - **Cloud-native based AI service**: Implementing Multi-camera Camera-based human localization and tracking systems (Falcon)
 - **Edge Computing**: I supporing MobileX environment resource sharing and optimization
 
-
 *Currently finalizing publication submissions and refining research outcomes*
 
 ## 🚀 Featured Projects
+I pinned my primary repo lists
 
 ### 🌐 [Omniverse Extensions Development](https://github.com/SmartX-Team/Omniverse)
-Building comprehensive Omniverse Extensions ecosystem Isaac-sim 4.5
+enabling seamless control of both virtual and physical robots simultaneously. Features include:
+- 🐳 **Fully automated** Isaac Sim 4.5 + ROS2 containerized environment
+- 🔄 **Dual-mode control**: Single interface managing virtual (Isaac Sim) and physical Husky UGV robots
+- 🎯 **Production-ready** Docker images with optimized deployment on private cloud infrastructure
 
 ### 📹 [Camera Agent](https://github.com/SmartX-Team/camera-agent)  
 **Python** • Developed APIs for camera resource sharing in MobileX environments, enabling seamless integration across multiple services.
@@ -40,19 +43,12 @@ Building comprehensive Omniverse Extensions ecosystem Isaac-sim 4.5
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![NVIDIA Omniverse](https://img.shields.io/badge/-NVIDIA%20Omniverse-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**Specializations**: Computer Vision • Cloud-Native Architecture • Digital Twin • Simulation • Containerization
+**Specializations**: K8S based Cloud-Native Architecture • Digital Twin • Containerize to Real/Simulation Service
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) *(Coming Soon)*  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/your-channel)  
-[![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/your-dockerhub)
-
-## 🎯 Research Interests
-- **Digital Twin Technologies** in academic and industrial environments
-- **Cloud-Native AI Services** with microservices architecture  
-- **Computer Vision** applications in smart spaces
-- **Edge-Cloud Hybrid Computing** for real-time processing
-- **Simulation-to-Reality Transfer** using advanced physics engines
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inyong-song-a149871b4) *(Coming Soon)*  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://youtube.com/your-channel](https://www.youtube.com/channel/UC9yTYYfVTsa8XLwhFPn7n2Q))  
+[![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)]([https://hub.docker.com/u/your-dockerhub](https://hub.docker.com/u/ttyy441))
 
 ---
 *"Building the bridge between simulation and reality through cloud-native digital twin technologies"*
