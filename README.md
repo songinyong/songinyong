@@ -46,9 +46,8 @@ enabling seamless control of both virtual and physical robots simultaneously. Fe
 **Specializations**: K8S based Cloud-Native Architecture • Digital Twin • Containerize to Real/Simulation Service
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inyong-song-a149871b4) *(Coming Soon)*  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://youtube.com/your-channel](https://www.youtube.com/channel/UC9yTYYfVTsa8XLwhFPn7n2Q))  
-[![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)]([https://hub.docker.com/u/your-dockerhub](https://hub.docker.com/u/ttyy441))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inyong-song-a149871b4) *(Coming Soon)* 
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9yTYYfVTsa8XLwhFPn7n2Q)
+[![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/ttyy441)
 
----
-*"Building the bridge between simulation and reality through cloud-native digital twin technologies"*
+
