@@ -16,25 +16,28 @@ I'm passionate about bridging the gap between cutting-edge AI research and pract
 *Currently finalizing publication submissions and refining research outcomes*
 
 ## 🚀 Featured Projects
-I pinned my primary repo lists
+Here are some of the projects I'm most passionate about.
 
 ### 🌐 [Omniverse Extensions Development](https://github.com/SmartX-Team/Omniverse)
 enabling seamless control of both virtual and physical robots simultaneously. Features include:
-- 🐳 **Fully automated** Isaac Sim 4.5 + ROS2 containerized environment
+- 🐳 **Fully pre-configured** Isaac Sim 4.5 + ROS2 containerized environment
 - 🔄 **Dual-mode control**: Single interface managing virtual (Isaac Sim) and physical Husky UGV robots
 - 🎯 **Production-ready** Docker images with optimized deployment on private cloud infrastructure
 
-### 📹 [Camera Agent](https://github.com/SmartX-Team/camera-agent)  
-**Python** • Developed APIs for camera resource sharing in MobileX environments, enabling seamless integration across multiple services.
+### 📹 [Camera Agent](https://github.com/SmartX-Team/camera-agent) 
+Instantly transforms any camera—physical webcam, ROS2 topic, or virtual—into a unified, RTSP/Kafka-based network stream.
 
-### 🦅 [Falcon Project](https://github.com/SmartX-Team/falcon-project)  
-**Python | Kubernetes** • Human location identification system through camera networks, implemented as cloud-native microservices.
+**Gstreamer | Kafka** • Containerized agent using Gstreamer/Kafka to provide streaming video and  managed API for seamless integration with digital twin and AI services.
 
 ### 🏗️ [Twin DataPond](https://github.com/SmartX-Team/twin-datapond)  
 **Kubernetes | Data Pipeline** • Infrastructure deployment examples and configuration management for digital twin data processing.
 
 ### 🐳 [DT Containerized](https://github.com/SmartX-Team/DT-containerized)  
 **Docker** • Custom containerization solutions for Isaac Sim 4.5, optimizing deployment and scalability.
+
+### 🦅 [Falcon Project](https://github.com/SmartX-Team/falcon-project)  
+**Python | Kubernetes** • Human location identification system through camera networks, implemented as cloud-native microservices.
+
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,8 +49,10 @@ enabling seamless control of both virtual and physical robots simultaneously. Fe
 **Specializations**: K8S based Cloud-Native Architecture • Digital Twin • Containerize to Real/Simulation Service
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inyong-song-a149871b4) *(Coming Soon)* 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inyong-song-a149871b4) *(Updating my profile)* 
+
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9yTYYfVTsa8XLwhFPn7n2Q)
+
 [![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/ttyy441)
 
 
